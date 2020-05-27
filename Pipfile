@@ -17,6 +17,9 @@ gunicorn = "*"
 scikit-learn = "*"
 python-dotenv = "*"
 python-decouple = "*"
+numpy = "*"
+opencv-contrib-python = "*"
+imutils = "*"
 
 [requires]
 python_version = "3.7"
